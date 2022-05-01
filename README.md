@@ -27,5 +27,12 @@
 <p>obs: resolver algum possivel conflito</p>
 
 ### cadastrar email e name na maquina local, para que apareça no commit do site Github corretamente
-<code>git config --global user.email "email@email.com</code>
+<code>git config --global user.email "email@email.com</code><br>
 <code>git config --global user.name "nickname da conta"</code>
+
+### link do tutorial de como cadastrar uma nova chave SSH
+<a href="https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Github Docs</a>
+
+## links para formatar o arquivo markdown
+<a href="https://www.w3schools.com/html/">w3schools html</a><br>
+<a href="https://www.markdownguide.org/basic-syntax/">markdownguide</a>
