@@ -1,6 +1,7 @@
 # primeiro-repositorio
  
  ## informações sobre Git e Github
+ <p>comandos importantes para o uso e manutenção do Git/Github</p>
 
 ### inicia um novo repositório
 <code>git init</code>
