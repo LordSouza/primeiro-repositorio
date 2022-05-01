@@ -6,6 +6,8 @@
 ### inicia um novo repositório
 <code>git init</code>
 
+### criar repositório remoto
+<code>git remote add origin (URL_REMOTO) </code>
 ### adicione um novo arquivo/diretorio ao branch
 <code>git add (arquivo/diretorio)</code>
 <p>ou adiciona tudo que não estiver no .gitignore</p>
