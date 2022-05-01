@@ -35,5 +35,5 @@
 <a href="https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Github Docs</a>
 
 ## links para formatar o arquivo markdown
-<a href="https://www.w3schools.com/html/">w3schools html</a><br>
+<a href="https://www.w3schools.com/html/">w3schools html</a></br>
 <a href="https://www.markdownguide.org/basic-syntax/">markdownguide</a>
